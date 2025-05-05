@@ -1,0 +1,8 @@
+.button {
+  background-color: #000000;
+  color: #FFFFFF;
+  border-radius: 9999px;
+  font-family: 'Helvetica', Arial, sans-serif;
+  border: none;
+  cursor: pointer;
+}
