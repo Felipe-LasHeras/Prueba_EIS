@@ -1,3 +1,5 @@
+/* src/styles/components/ui/Button.css */
+
 .button {
   background-color: #000000;
   color: #FFFFFF;
@@ -5,4 +7,6 @@
   font-family: 'Helvetica', Arial, sans-serif;
   border: none;
   cursor: pointer;
+  padding: 12px 32px;
+  font-size: 16px;
 }
