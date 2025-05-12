@@ -15,7 +15,7 @@ import galleta from "../components/assets/FELIPE/IMAGENES/Galleta en sarten.jpg"
 import tiramisu from "../components/assets/FELIPE/IMAGENES/Tiramisu.jpg"
 import wafflefrutilla from "../components/assets/FELIPE/IMAGENES/Waffle frutilla.jpg"
 import cafegalleta from "../components/assets/FELIPE/IMAGENES/Cafe galleta.jpg"
-import tazavafe from "../components/assets/FELIPE/ILUSTRACIONES/Taza cafe.png"
+import tazacafe from "../components/assets/FELIPE/ILUSTRACIONES/Taza cafe.png"
 import logogris from "../components/assets/FELIPE/ILUSTRACIONES/Logo circular gris.png"
 
 function LandingPage() {
@@ -132,14 +132,14 @@ function LandingPage() {
           <div className="boton-signature">
             <Button>See the menu</Button>
           </div>
-          <div className="imagen-derecha-signature">L →</div>
+          <div className="imagen-derecha-signature"><img src="vasobeige" alt="" /></div>
         </section>
         <section>
           <div className="locoShakes">
             <div className="texo-titlulo-locoshakes">LOCOSHAKES</div>
-            <div className="imagen-izquierda-locoshakes"></div>
-            <div className="imagen-superior-derecha1-locoshakes"></div>
-            <div className="imagen-superior-derecha2-locoshakes"></div>
+            <div className="imagen-izquierda-locoshakes"><img src="cafelado" alt="" /></div>
+            <div className="imagen-superior-derecha1-locoshakes"><img src="cafediagonal" alt="" /></div>
+            <div className="imagen-superior-derecha2-locoshakes"><img src="cafearriba" alt="" /></div>
             <div className="texto-pequeño-derecha"></div>
           </div>
         </section>
@@ -147,24 +147,24 @@ function LandingPage() {
           <div className="bakings">
             <div className="texo-titlulo-bakings">BAKINGS</div>
             <div className="texto-pequeño-izquierda-bakings"></div>
-            <div className="imagen-superior-derecha-bakings"></div>
-            <div className="imagen-inferior-derecha-bakings"></div>
+            <div className="imagen-superior-derecha-bakings"><img src="pistacho" alt="" /></div>
+            <div className="imagen-inferior-derecha-bakings"><img src="galleta" alt="" /></div>
           </div>
         </section>
         <section>
           <div className="desserts">
             <div className="texo-titlulo-desserts">DESSERTS</div>
-            <div className="imagen-izquierda-desserts"></div>
+            <div className="imagen-izquierda-desserts"><img src="tiramisu" alt="" /></div>
             <div className="texto-pequeño-derecha-desserts"></div>
-            <div className="imagen-derecha-desserts"></div>
+            <div className="imagen-derecha-desserts"><img src="wafflefrutilla" alt="" /></div>
           </div>
         </section>
         <section>
           <div className="coffee">
             <div className="texo-titlulo-coffee">COFFEE</div>
             <div className="texto-pequeño-derecha"></div>
-            <div className="imagen-izquierda-coffee"></div>
-            <div className="imagen-derecha-coffee"></div>
+            <div className="imagen-izquierda-coffee"><img src="cafegalleta" alt="" /></div>
+            <div className="imagen-derecha-coffee"><img src="cafegalleta" alt="" /></div>
           </div>
         </section>
         <section>
@@ -193,9 +193,9 @@ function LandingPage() {
         <div className="StayConnected">
           <div className="texto-titulo-connected"></div>
           <div className="texto-pequeño-connected"></div>
-          <div className="icono-izquierdo-connected"></div>
-          <div className="icono-centro-connected"></div>
-          <div className="icono-derecho-connected"></div>
+          <div className="icono-izquierdo-connected"><img src="tazacafe" alt="" /></div>
+          <div className="icono-centro-connected"><img src="vasobeige" alt="" /></div>
+          <div className="icono-derecho-connected"><img src="logogris" alt="" /></div>
         </div>
           </section>
       </div>
