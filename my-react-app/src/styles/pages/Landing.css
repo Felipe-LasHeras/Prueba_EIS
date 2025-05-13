@@ -4,6 +4,7 @@
 .estilo-pagina {
   width: 1440px;
   background-color: #ffffff;
+  margin: 0 auto; /* Añadir margin auto para centrar */
 }
 
 .hero {
@@ -16,14 +17,18 @@
   position: relative;
   width: 100%;
   height: 805px;
-  overflow: hidden;
+  overflow: visible;
+}
+
+.margin-top{
+  margin-top: 206px;
 }
 
 .foto-principal {
-  margin-top: 208px;
   width: 1440px;
   height: 805px;
   display: flex;
+  justify-content: center;
   position: relative;
 }
 
@@ -31,13 +36,14 @@
   width: 1440px;
   height: 805px;
   object-fit: cover;
+  border-bottom: #000 1px solid;
 }
 
 .recuadro-foto-principal {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: rotate(-6.45deg);
+  transform: translate(-50%, -50%) rotate(-6.45deg);
   width: 829px;
   height: 467px;
   background-color: #ffffff;
@@ -45,10 +51,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  -webkit-transform: rotate(-6.45deg);
-  -moz-transform: rotate(-6.45deg);
-  -ms-transform: rotate(-6.45deg);
-  -o-transform: rotate(-6.45deg);
+  -webkit-transform: translate(-50%, -50%) rotate(-6.45deg);
+  -moz-transform: translate(-50%, -50%) rotate(-6.45deg);
+  -ms-transform: translate(-50%, -50%) rotate(-6.45deg);
+  -o-transform: translate(-50%, -50%) rotate(-6.45deg);
 }
 
 .texto-foto-principal {
@@ -57,20 +63,19 @@
 }
 
 /* Info Cafe Section */
-.InfoCafe {
+.hero-info-bar {
   width: 100%;
-  height: 400px;
+  height: 78px;
   background-color: #ffffff;
   position: relative;
+  display: flex;
 }
 
-.Info-EIS {
+.hero-info-logo {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 16px;
+  left: 36px;
   text-align: center;
-  width: 800px;
 }
 
 .Info-EIS p {

@@ -24,6 +24,7 @@ function LandingPage() {
       <div className="estilo-pagina">
         <section className="hero">
           <div className="container-hero">
+            <div className="margin-top"></div>
             <div className="foto-principal">
               <img src={cinnamon} alt="" />
             </div>
@@ -40,51 +41,51 @@ function LandingPage() {
             </div>
           
         </section>
-        <div className="InfoCafe">
+
           <section className="hero-info-bar">
             {/* Columna logo - 1era columna */}
             <div className="hero-info-logo">
-              <div className="eis-text-03">EIS Cafe</div>
-              <div className="eis-text-03">&nbsp;</div>
-              <div className="eis-text-03">&nbsp;</div>
+              <div className="info-logo">EIS Cafe</div>
+              <div className="info-logo">&nbsp;</div>
+              <div className="info-logo">&nbsp;</div>
             </div>
 
             {/* Columna códigos - 3era columna */}
             <div className="hero-info-codes">
-              <div className="eis-text-03">BHX</div>
-              <div className="eis-text-03">DXB</div>
-              <div className="eis-text-03">LND</div>
+              <div className="info-codes">BHX</div>
+              <div className="info-codes">DXB</div>
+              <div className="info-codes">LND</div>
             </div>
 
             {/* Direcciones - 4ta y 5ta columna */}
             <div className="hero-info-addresses">
-              <div className="eis-text-03">500 Coventry Road, Birmingham</div>
-              <div className="eis-text-03">Opening soon...</div>
-              <div className="eis-text-03">Opening soon...</div>
+              <div className="info-add">500 Coventry Road, Birmingham</div>
+              <div className="info-add">Opening soon...</div>
+              <div className="info-add">Opening soon...</div>
             </div>
 
             {/* Días - 7ma columna */}
             <div className="hero-info-days">
-              <div className="eis-text-03">MON - SUN</div>
-              <div className="eis-text-03">FRIDAY</div>
-              <div className="eis-text-03">&nbsp;</div>
+              <div className="info-days">MON - SUN</div>
+              <div className="info-days">FRIDAY</div>
+              <div className="info-days">&nbsp;</div>
             </div>
 
             {/* Horas - 8va columna */}
             <div className="hero-info-times">
-              <div className="eis-text-03">10:30 - 23:30</div>
-              <div className="eis-text-03">14:00 - 23:30</div>
-              <div className="eis-text-03">&nbsp;</div>
+              <div className="info-times">10:30 - 23:30</div>
+              <div className="info-times">14:00 - 23:30</div>
+              <div className="info-times">&nbsp;</div>
             </div>
 
             {/* Copyright - 10ma y 11va columna */}
             <div className="hero-info-copyright">
-              <div className="">© COPYRIGHT 2024 EIS CAFE LTD.</div>
-              <div className="">ALL RIGHTS RESERVED</div>
-              <div className="">&nbsp;</div>
+              <div className="info-copy">© COPYRIGHT 2024 EIS CAFE LTD.</div>
+              <div className="info-copy">ALL RIGHTS RESERVED</div>
+              <div className="info-copy">&nbsp;</div>
             </div>
           </section>
-        </div>
+
 
         <section className="Crafted">
           <div className="texto-bring">
