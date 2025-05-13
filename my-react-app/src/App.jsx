@@ -6,6 +6,7 @@ import { Gallery } from "./screens/Gallery";
 import { Landing } from "./screens/Landing";
 import { LandingMenu } from "./screens/LandingMenu";
 import { Menu } from "./screens/Menu";
+import FontTest from './components/FontTest';
 import "./variables.css";
 
 const router = createBrowserRouter([
@@ -36,6 +37,10 @@ const router = createBrowserRouter([
   {
     path: "/about-us",
     element: <AboutUs />,
+  },
+  {
+    path: "/fonttest",
+    element: <FontTest />,
   },
 ]);
 
