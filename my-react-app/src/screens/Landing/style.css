@@ -34,7 +34,7 @@
 .landing .text-wrapper {
   color: #000000;
   font-family: var(--EIS-titles-font-family);
-  font-size: var(--EIS-titles-font-size);
+  font-size: 50px;
   font-style: var(--EIS-titles-font-style);
   font-weight: var(--EIS-titles-font-weight);
   left: 2680px;
@@ -49,7 +49,7 @@
 .landing .p {
   color: #000000;
   font-family: var(--EIS-text-01-font-family);
-  font-size: var(--EIS-text-01-font-size);
+  font-size: 22px;
   font-style: var(--EIS-text-01-font-style);
   font-weight: var(--EIS-text-01-font-weight);
   left: 2680px;
@@ -303,7 +303,7 @@
 .landing .text-wrapper-7 {
   color: #000000;
   font-family: "Helvetica Neue LT Pro-55Roman", Helvetica;
-  font-size: 40px;
+  font-size: 28px;
   font-weight: 400;
   left: 2680px;
   letter-spacing: -1.20px;

@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'HelveticaNeueLTPro';
+  src: url('/fonts/HelveticaNeueLTPro-Roman.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 :root {
   --eis-grey: rgba(245, 245, 245, 1);
   --EIS-subtitles-font-family: "Helvetica Neue LT Pro", Helvetica;

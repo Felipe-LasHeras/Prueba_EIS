@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'HelveticaNeueLTPro';
+  src: url('./FONTS/HelveticaNeueLTPro-Roman.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  display: swap;
+}

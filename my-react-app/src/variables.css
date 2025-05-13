@@ -1,6 +1,6 @@
 :root {
   /* Títulos */
-  --EIS-titles-font-family: "Helvetica Neue LT Pro-55Roman", Helvetica, Arial, sans-serif;
+  --EIS-titles-font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
   --EIS-titles-font-size: 40px;
   --EIS-titles-font-style: normal;
   --EIS-titles-font-weight: 400;
@@ -8,7 +8,7 @@
   --EIS-titles-line-height: 68px;
   
   /* Subtítulos */
-  --EIS-subtitles-font-family: "Helvetica Neue LT Pro-55Roman", Helvetica, Arial, sans-serif;
+  --EIS-subtitles-font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
   --EIS-subtitles-font-size: 30px;
   --EIS-subtitles-font-style: normal;
   --EIS-subtitles-font-weight: 400;
@@ -16,7 +16,7 @@
   --EIS-subtitles-line-height: 48px;
   
   /* Texto 01 */
-  --EIS-text-01-font-family: "Helvetica Neue LT Pro-55Roman", Helvetica, Arial, sans-serif;
+  --EIS-text-01-font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
   --EIS-text-01-font-size: 20px;
   --EIS-text-01-font-style: normal;
   --EIS-text-01-font-weight: 400;
@@ -24,7 +24,7 @@
   --EIS-text-01-line-height: 28px;
   
   /* Texto 02 */
-  --EIS-text-02-font-family: "Helvetica Neue LT Pro-55Roman", Helvetica, Arial, sans-serif;
+  --EIS-text-02-font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
   --EIS-text-02-font-size: 16px;
   --EIS-text-02-font-style: normal;
   --EIS-text-02-font-weight: 400;
@@ -32,7 +32,7 @@
   --EIS-text-02-line-height: 22px;
   
   /* Texto 03 */
-  --EIS-text-03-font-family: "Helvetica Neue LT Pro-55Roman", Helvetica, Arial, sans-serif;
+  --EIS-text-03-font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
   --EIS-text-03-font-size: 12px;
   --EIS-text-03-font-style: normal;
   --EIS-text-03-font-weight: 400;
