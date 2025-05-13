@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
 
-export const Landing = () => {
+const Landing = () => {
   return (
     <div className="landing" data-model-id="353:2">
       <div className="div">
@@ -10,7 +10,7 @@ export const Landing = () => {
           <img
             className="element"
             alt="Element"
-            src="https://c.animaapp.com/KhtIAI9m/img/002-1.png"
+            src={"https://c.animaapp.com/KhtIAI9m/img/002-1.png"}
           />
 
           <div className="text-wrapper">STAY CONNECTED</div>
@@ -630,3 +630,5 @@ export const Landing = () => {
     </div>
   );
 };
+
+export default Landing;

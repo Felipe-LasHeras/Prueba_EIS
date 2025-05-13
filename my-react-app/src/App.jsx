@@ -6,6 +6,7 @@ import { Gallery } from "./screens/Gallery";
 import { Landing } from "./screens/Landing";
 import { LandingMenu } from "./screens/LandingMenu";
 import { Menu } from "./screens/Menu";
+import "./variables.css";
 
 const router = createBrowserRouter([
   {

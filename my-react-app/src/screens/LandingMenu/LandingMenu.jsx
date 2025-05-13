@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
 
-export const LandingMenu = () => {
+const LandingMenu = () => {
   return (
     <div className="landing-menu" data-model-id="474:374">
       <div className="div-3">
@@ -142,3 +142,4 @@ export const LandingMenu = () => {
     </div>
   );
 };
+export default LandingMenu;

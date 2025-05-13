@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
 
-export const Menu = () => {
+const Menu = () => {
   return (
     <div className="MENU" data-model-id="353:208">
       <div className="div-2">
@@ -136,3 +136,5 @@ export const Menu = () => {
     </div>
   );
 };
+
+export default Menu;

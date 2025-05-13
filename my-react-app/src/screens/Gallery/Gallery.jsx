@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
 
-export const Gallery = () => {
+const Gallery = () => {
   return (
     <div className="gallery" data-model-id="464:41">
       <div className="overlap-wrapper-2">
@@ -242,3 +242,4 @@ export const Gallery = () => {
     </div>
   );
 };
+export default Gallery;

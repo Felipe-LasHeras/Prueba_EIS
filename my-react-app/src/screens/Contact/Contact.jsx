@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
 
-export const Contact = () => {
+const Contact = () => {
   return (
     <div className="contact" data-model-id="517:151">
       <div className="div-4">
@@ -187,3 +187,4 @@ export const Contact = () => {
     </div>
   );
 };
+export default Contact;

@@ -1,1 +1,1 @@
-export { LandingMenu } from "./LandingMenu";
+export { default as LandingMenu } from "./LandingMenu";
