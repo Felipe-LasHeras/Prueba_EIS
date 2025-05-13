@@ -1,5 +1,5 @@
 import React from "react";
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import { RouterProvider, createHashRouter } from "react-router-dom";
 import { AboutUs } from "./screens/AboutUs";
 import { Contact } from "./screens/Contact";
 import { Gallery } from "./screens/Gallery";
@@ -10,9 +10,10 @@ import FontTest from './components/FontTest';
 import "./App.css";
 import "./variables.css";
 
-const router = createBrowserRouter([
+// Usamos createHashRouter en lugar de createBrowserRouter para GitHub Pages
+const router = createHashRouter([
   {
-    path: "/*",
+    path: "/",
     element: <Landing />,
   },
   {
