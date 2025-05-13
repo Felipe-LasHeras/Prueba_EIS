@@ -1,0 +1,539 @@
+.contact {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.contact .div-4 {
+  background-color: #ffffff;
+  height: 1141px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.contact .EIS-cafe-7 {
+  color: #000000;
+  font-family: var(--EIS-titles-font-family);
+  font-size: var(--EIS-titles-font-size);
+  font-style: var(--EIS-titles-font-style);
+  font-weight: var(--EIS-titles-font-weight);
+  left: 329px;
+  letter-spacing: var(--EIS-titles-letter-spacing);
+  line-height: var(--EIS-titles-line-height);
+  position: absolute;
+  text-align: center;
+  top: 1067px;
+  white-space: nowrap;
+  width: 782px;
+}
+
+.contact .line-67 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1140px;
+  width: 1440px;
+}
+
+.contact .line-68 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1051px;
+  width: 1440px;
+}
+
+.contact .rectangle-15 {
+  background-color: #d9d9d9;
+  height: 24px;
+  left: -53px;
+  position: absolute;
+  top: 735px;
+  width: 24px;
+}
+
+.contact .rectangle-16 {
+  background-color: #d9d9d9;
+  height: 24px;
+  left: -53px;
+  position: absolute;
+  top: 837px;
+  width: 24px;
+}
+
+.contact .rectangle-17 {
+  background-color: #d9d9d9;
+  height: 24px;
+  left: -53px;
+  position: absolute;
+  top: 948px;
+  width: 24px;
+}
+
+.contact .rectangle-18 {
+  background-color: #d9d9d9;
+  height: 24px;
+  left: -53px;
+  position: absolute;
+  top: 972px;
+  width: 24px;
+}
+
+.contact .rectangle-19 {
+  background-color: #d9d9d9;
+  height: 24px;
+  left: -53px;
+  position: absolute;
+  top: 996px;
+  width: 24px;
+}
+
+.contact .rectangle-20 {
+  background-color: #d9d9d9;
+  height: 24px;
+  left: -53px;
+  position: absolute;
+  top: 1081px;
+  width: 24px;
+}
+
+.contact .rectangle-21 {
+  background-color: #d9d9d9;
+  height: 24px;
+  left: -53px;
+  position: absolute;
+  top: 813px;
+  width: 24px;
+}
+
+.contact .rectangle-22 {
+  background-color: #d9d9d9;
+  height: 24px;
+  left: -38px;
+  position: absolute;
+  top: 1354px;
+  width: 24px;
+}
+
+.contact .overlap-8 {
+  height: 25px;
+  left: 732px;
+  position: absolute;
+  top: 282px;
+  width: 708px;
+}
+
+.contact .text-wrapper-40 {
+  color: #000000;
+  font-family: var(--EIS-text-01-font-family);
+  font-size: var(--EIS-text-01-font-size);
+  font-style: var(--EIS-text-01-font-style);
+  font-weight: var(--EIS-text-01-font-weight);
+  left: 0;
+  letter-spacing: var(--EIS-text-01-letter-spacing);
+  line-height: var(--EIS-text-01-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 351px;
+}
+
+.contact .text-wrapper-41 {
+  color: #000000;
+  font-family: var(--EIS-text-01-font-family);
+  font-size: var(--EIS-text-01-font-size);
+  font-style: var(--EIS-text-01-font-style);
+  font-weight: var(--EIS-text-01-font-weight);
+  left: 348px;
+  letter-spacing: var(--EIS-text-01-letter-spacing);
+  line-height: var(--EIS-text-01-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 360px;
+}
+
+.contact .overlap-9 {
+  height: 25px;
+  left: 732px;
+  position: absolute;
+  top: 319px;
+  width: 708px;
+}
+
+.contact .overlap-10 {
+  height: 25px;
+  left: 732px;
+  position: absolute;
+  top: 356px;
+  width: 708px;
+}
+
+.contact .overlap-11 {
+  height: 25px;
+  left: 732px;
+  position: absolute;
+  top: 246px;
+  width: 708px;
+}
+
+.contact .line-69 {
+  height: 1px;
+  left: 732px;
+  object-fit: cover;
+  position: absolute;
+  top: 277px;
+  width: 323px;
+}
+
+.contact .line-70 {
+  height: 1px;
+  left: 1080px;
+  object-fit: cover;
+  position: absolute;
+  top: 277px;
+  width: 360px;
+}
+
+.contact .line-71 {
+  height: 1px;
+  left: 732px;
+  object-fit: cover;
+  position: absolute;
+  top: 313px;
+  width: 323px;
+}
+
+.contact .line-72 {
+  height: 1px;
+  left: 1080px;
+  object-fit: cover;
+  position: absolute;
+  top: 313px;
+  width: 360px;
+}
+
+.contact .line-73 {
+  height: 1px;
+  left: 732px;
+  object-fit: cover;
+  position: absolute;
+  top: 350px;
+  width: 323px;
+}
+
+.contact .line-74 {
+  height: 1px;
+  left: 1080px;
+  object-fit: cover;
+  position: absolute;
+  top: 350px;
+  width: 360px;
+}
+
+.contact .line-75 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 387px;
+  width: 1440px;
+}
+
+.contact .text-wrapper-42 {
+  color: #000000;
+  font-family: var(--EIS-titles-font-family);
+  font-size: var(--EIS-titles-font-size);
+  font-style: var(--EIS-titles-font-style);
+  font-weight: var(--EIS-titles-font-weight);
+  left: 36px;
+  letter-spacing: var(--EIS-titles-letter-spacing);
+  line-height: var(--EIS-titles-line-height);
+  position: absolute;
+  text-align: center;
+  top: 155px;
+  white-space: nowrap;
+  width: 1368px;
+}
+
+.contact .text-wrapper-43 {
+  color: #000000;
+  font-family: var(--EIS-titles-font-family);
+  font-size: var(--EIS-titles-font-size);
+  font-style: var(--EIS-titles-font-style);
+  font-weight: var(--EIS-titles-font-weight);
+  left: 36px;
+  letter-spacing: var(--EIS-titles-letter-spacing);
+  line-height: var(--EIS-titles-line-height);
+  position: absolute;
+  text-align: center;
+  top: 423px;
+  white-space: nowrap;
+  width: 1368px;
+}
+
+.contact .line-76 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 241px;
+  width: 1440px;
+}
+
+.contact .line-77 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 509px;
+  width: 1440px;
+}
+
+.contact .contact-form {
+  height: 470px;
+  left: 268px;
+  position: absolute;
+  top: 546px;
+  width: 916px;
+}
+
+.contact .overlap-group-5 {
+  background-color: #f2f2f2;
+  border-radius: 36px;
+  height: 470px;
+  position: relative;
+  width: 904px;
+}
+
+.contact .text-wrapper-44 {
+  color: #000000;
+  font-family: var(--EIS-text-01-font-family);
+  font-size: var(--EIS-text-01-font-size);
+  font-style: var(--EIS-text-01-font-style);
+  font-weight: var(--EIS-text-01-font-weight);
+  left: 277px;
+  letter-spacing: var(--EIS-text-01-letter-spacing);
+  line-height: var(--EIS-text-01-line-height);
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: 351px;
+}
+
+.contact .text-wrapper-45 {
+  color: #000000;
+  font-family: var(--EIS-text-03-font-family);
+  font-size: var(--EIS-text-03-font-size);
+  font-style: var(--EIS-text-03-font-style);
+  font-weight: var(--EIS-text-03-font-weight);
+  left: 92px;
+  letter-spacing: var(--EIS-text-03-letter-spacing);
+  line-height: var(--EIS-text-03-line-height);
+  position: absolute;
+  top: 66px;
+  white-space: nowrap;
+  width: 351px;
+}
+
+.contact .text-wrapper-46 {
+  color: #000000;
+  font-family: var(--EIS-text-03-font-family);
+  font-size: var(--EIS-text-03-font-size);
+  font-style: var(--EIS-text-03-font-style);
+  font-weight: var(--EIS-text-03-font-weight);
+  left: 92px;
+  letter-spacing: var(--EIS-text-03-letter-spacing);
+  line-height: var(--EIS-text-03-line-height);
+  position: absolute;
+  top: 143px;
+  white-space: nowrap;
+  width: 351px;
+}
+
+.contact .text-wrapper-47 {
+  color: #000000;
+  font-family: var(--EIS-text-03-font-family);
+  font-size: var(--EIS-text-03-font-size);
+  font-style: var(--EIS-text-03-font-style);
+  font-weight: var(--EIS-text-03-font-weight);
+  left: 92px;
+  letter-spacing: var(--EIS-text-03-letter-spacing);
+  line-height: var(--EIS-text-03-line-height);
+  position: absolute;
+  top: 220px;
+  white-space: nowrap;
+  width: 351px;
+}
+
+.contact .text-wrapper-48 {
+  color: #000000;
+  font-family: var(--EIS-text-03-font-family);
+  font-size: var(--EIS-text-03-font-size);
+  font-style: var(--EIS-text-03-font-style);
+  font-weight: var(--EIS-text-03-font-weight);
+  left: 92px;
+  letter-spacing: var(--EIS-text-03-letter-spacing);
+  line-height: var(--EIS-text-03-line-height);
+  position: absolute;
+  top: 297px;
+  white-space: nowrap;
+  width: 351px;
+}
+
+.contact .text-box {
+  background-color: #ffffff;
+  border-radius: 4px;
+  height: 30px;
+  left: 92px;
+  position: absolute;
+  top: 89px;
+  width: 720px;
+}
+
+.contact .text-box-2 {
+  background-color: #ffffff;
+  border-radius: 4px;
+  height: 30px;
+  left: 92px;
+  position: absolute;
+  top: 166px;
+  width: 720px;
+}
+
+.contact .text-box-3 {
+  background-color: #ffffff;
+  border-radius: 4px;
+  height: 30px;
+  left: 92px;
+  position: absolute;
+  top: 243px;
+  width: 720px;
+}
+
+.contact .text-box-4 {
+  background-color: #ffffff;
+  border-radius: 4px;
+  height: 72px;
+  left: 92px;
+  position: absolute;
+  top: 320px;
+  width: 720px;
+}
+
+.contact .overlap-12 {
+  background-color: #000000;
+  border-radius: 26px;
+  height: 30px;
+  left: 324px;
+  position: absolute;
+  top: 416px;
+  width: 256px;
+}
+
+.contact .text-wrapper-49 {
+  color: #ffffff;
+  font-family: var(--EIS-text-03-font-family);
+  font-size: var(--EIS-text-03-font-size);
+  font-style: var(--EIS-text-03-font-style);
+  font-weight: var(--EIS-text-03-font-weight);
+  left: 15px;
+  letter-spacing: var(--EIS-text-03-letter-spacing);
+  line-height: var(--EIS-text-03-line-height);
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  white-space: nowrap;
+  width: 227px;
+}
+
+.contact .group-15 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 1442px;
+}
+
+.contact .overlap-13 {
+  background-color: #ffffff;
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.contact .EIS-cafe-8 {
+  color: #000000;
+  display: block;
+  font-family: var(--EIS-titles-font-family);
+  font-size: var(--EIS-titles-font-size);
+  font-style: var(--EIS-titles-font-style);
+  font-weight: var(--EIS-titles-font-weight);
+  left: 329px;
+  letter-spacing: var(--EIS-titles-letter-spacing);
+  line-height: var(--EIS-titles-line-height);
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: 782px;
+}
+
+.contact .line-78 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 96px;
+  width: 1440px;
+}
+
+.contact .group-16 {
+  display: block;
+  height: 22px;
+  left: 1369px;
+  position: absolute;
+  top: 38px;
+  width: 32px;
+}
+
+.contact .line-79 {
+  height: 4px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 36px;
+}
+
+.contact .line-80 {
+  height: 4px;
+  left: -2px;
+  position: absolute;
+  top: 9px;
+  width: 36px;
+}
+
+.contact .line-81 {
+  height: 4px;
+  left: -2px;
+  position: absolute;
+  top: 20px;
+  width: 36px;
+}
+
+.contact .line-82 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 1440px;
+}

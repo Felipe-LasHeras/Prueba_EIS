@@ -1,10 +1,18 @@
+@font-face {
+  font-family: 'HelveticaNeueLTPro';
+  src: url('../../components/assets/FELIPE/FONTS/HelveticaNeueLTPro-Roman.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'HelveticaNeueLTPro', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
 }
 
+/* Mantener esta regla exactamente igual */
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
