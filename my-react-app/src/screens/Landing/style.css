@@ -1,3 +1,5 @@
+@import '../../variables.css';
+
 .landing {
   background-color: #ffffff;
   display: flex;

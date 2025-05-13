@@ -7,6 +7,7 @@ import { Landing } from "./screens/Landing";
 import { LandingMenu } from "./screens/LandingMenu";
 import { Menu } from "./screens/Menu";
 import FontTest from './components/FontTest';
+import "./App.css";
 import "./variables.css";
 
 const router = createBrowserRouter([
