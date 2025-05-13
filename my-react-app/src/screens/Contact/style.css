@@ -16,13 +16,13 @@
 
 .contact .EIS-cafe-7 {
   color: #000000;
-  font-family: var(--EIS-titles-font-family);
-  font-size: var(--EIS-titles-font-size);
-  font-style: var(--EIS-titles-font-style);
-  font-weight: var(--EIS-titles-font-weight);
+  font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
+  font-size: 68px;
+font-style: normal;
+font-weight: 400;
   left: 329px;
-  letter-spacing: var(--EIS-titles-letter-spacing);
-  line-height: var(--EIS-titles-line-height);
+  line-height: 68px; /* 100% */
+letter-spacing: -2.04px;
   position: absolute;
   text-align: center;
   top: 1067px;
@@ -130,13 +130,13 @@
 
 .contact .text-wrapper-40 {
   color: #000000;
-  font-family: var(--EIS-text-01-font-family);
-  font-size: var(--EIS-text-01-font-size);
-  font-style: var(--EIS-text-01-font-style);
-  font-weight: var(--EIS-text-01-font-weight);
+  font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+font-style: normal;
+font-weight: 400;
   left: 0;
-  letter-spacing: var(--EIS-text-01-letter-spacing);
-  line-height: var(--EIS-text-01-line-height);
+  line-height: 32px; /* 106.667% */
+letter-spacing: -0.3px;
   position: absolute;
   top: 0;
   white-space: nowrap;
@@ -145,13 +145,13 @@
 
 .contact .text-wrapper-41 {
   color: #000000;
-  font-family: var(--EIS-text-01-font-family);
-  font-size: var(--EIS-text-01-font-size);
-  font-style: var(--EIS-text-01-font-style);
-  font-weight: var(--EIS-text-01-font-weight);
+  font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+font-style: normal;
+font-weight: 400;
   left: 348px;
-  letter-spacing: var(--EIS-text-01-letter-spacing);
-  line-height: var(--EIS-text-01-line-height);
+  line-height: 32px; /* 106.667% */
+letter-spacing: -0.3px;
   position: absolute;
   top: 0;
   white-space: nowrap;
@@ -247,13 +247,13 @@
 
 .contact .text-wrapper-42 {
   color: #000000;
-  font-family: var(--EIS-titles-font-family);
-  font-size: var(--EIS-titles-font-size);
-  font-style: var(--EIS-titles-font-style);
-  font-weight: var(--EIS-titles-font-weight);
+  font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
+  font-size: 68px;
+font-style: normal;
+font-weight: 400;
   left: 36px;
-  letter-spacing: var(--EIS-titles-letter-spacing);
-  line-height: var(--EIS-titles-line-height);
+  line-height: 68px; /* 100% */
+letter-spacing: -2.04px;
   position: absolute;
   text-align: center;
   top: 155px;
@@ -263,13 +263,13 @@
 
 .contact .text-wrapper-43 {
   color: #000000;
-  font-family: var(--EIS-titles-font-family);
-  font-size: var(--EIS-titles-font-size);
-  font-style: var(--EIS-titles-font-style);
-  font-weight: var(--EIS-titles-font-weight);
+  font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
+  font-size: 68px;
+font-style: normal;
+font-weight: 400;
   left: 36px;
-  letter-spacing: var(--EIS-titles-letter-spacing);
-  line-height: var(--EIS-titles-line-height);
+  line-height: 68px; /* 100% */
+letter-spacing: -2.04px;
   position: absolute;
   text-align: center;
   top: 423px;
@@ -313,13 +313,13 @@
 
 .contact .text-wrapper-44 {
   color: #000000;
-  font-family: var(--EIS-text-01-font-family);
-  font-size: var(--EIS-text-01-font-size);
-  font-style: var(--EIS-text-01-font-style);
-  font-weight: var(--EIS-text-01-font-weight);
+  font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+font-style: normal;
+font-weight: 400;
   left: 277px;
-  letter-spacing: var(--EIS-text-01-letter-spacing);
-  line-height: var(--EIS-text-01-line-height);
+  line-height: 32px; /* 106.667% */
+letter-spacing: -0.3px;
   position: absolute;
   text-align: center;
   top: 20px;
@@ -329,13 +329,13 @@
 
 .contact .text-wrapper-45 {
   color: #000000;
-  font-family: var(--EIS-text-03-font-family);
-  font-size: var(--EIS-text-03-font-size);
-  font-style: var(--EIS-text-03-font-style);
-  font-weight: var(--EIS-text-03-font-weight);
+  font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+font-style: normal;
+font-weight: 400;
   left: 92px;
-  letter-spacing: var(--EIS-text-03-letter-spacing);
-  line-height: var(--EIS-text-03-line-height);
+  line-height: 16px; /* 114.286% */
+letter-spacing: -0.14px;
   position: absolute;
   top: 66px;
   white-space: nowrap;
@@ -344,13 +344,13 @@
 
 .contact .text-wrapper-46 {
   color: #000000;
-  font-family: var(--EIS-text-03-font-family);
-  font-size: var(--EIS-text-03-font-size);
-  font-style: var(--EIS-text-03-font-style);
-  font-weight: var(--EIS-text-03-font-weight);
+  font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+font-style: normal;
+font-weight: 400;
   left: 92px;
-  letter-spacing: var(--EIS-text-03-letter-spacing);
-  line-height: var(--EIS-text-03-line-height);
+  line-height: 16px; /* 114.286% */
+letter-spacing: -0.14px;
   position: absolute;
   top: 143px;
   white-space: nowrap;
@@ -359,13 +359,13 @@
 
 .contact .text-wrapper-47 {
   color: #000000;
-  font-family: var(--EIS-text-03-font-family);
-  font-size: var(--EIS-text-03-font-size);
-  font-style: var(--EIS-text-03-font-style);
-  font-weight: var(--EIS-text-03-font-weight);
+  font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+font-style: normal;
+font-weight: 400;
   left: 92px;
-  letter-spacing: var(--EIS-text-03-letter-spacing);
-  line-height: var(--EIS-text-03-line-height);
+  line-height: 16px; /* 114.286% */
+letter-spacing: -0.14px;
   position: absolute;
   top: 220px;
   white-space: nowrap;
@@ -374,13 +374,13 @@
 
 .contact .text-wrapper-48 {
   color: #000000;
-  font-family: var(--EIS-text-03-font-family);
-  font-size: var(--EIS-text-03-font-size);
-  font-style: var(--EIS-text-03-font-style);
-  font-weight: var(--EIS-text-03-font-weight);
+  font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+font-style: normal;
+font-weight: 400;
   left: 92px;
-  letter-spacing: var(--EIS-text-03-letter-spacing);
-  line-height: var(--EIS-text-03-line-height);
+  line-height: 16px; /* 114.286% */
+letter-spacing: -0.14px;
   position: absolute;
   top: 297px;
   white-space: nowrap;
@@ -439,13 +439,13 @@
 
 .contact .text-wrapper-49 {
   color: #ffffff;
-  font-family: var(--EIS-text-03-font-family);
-  font-size: var(--EIS-text-03-font-size);
-  font-style: var(--EIS-text-03-font-style);
-  font-weight: var(--EIS-text-03-font-weight);
+  font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+font-style: normal;
+font-weight: 400;
   left: 15px;
-  letter-spacing: var(--EIS-text-03-letter-spacing);
-  line-height: var(--EIS-text-03-line-height);
+  line-height: 16px; /* 114.286% */
+letter-spacing: -0.14px;
   position: absolute;
   text-align: center;
   top: 9px;
@@ -473,13 +473,13 @@
 .contact .EIS-cafe-8 {
   color: #000000;
   display: block;
-  font-family: var(--EIS-titles-font-family);
-  font-size: var(--EIS-titles-font-size);
-  font-style: var(--EIS-titles-font-style);
-  font-weight: var(--EIS-titles-font-weight);
+  font-family: "HelveticaNeueLTPro", Helvetica, Arial, sans-serif;
+  font-size: 68px;
+font-style: normal;
+font-weight: 400;
   left: 329px;
-  letter-spacing: var(--EIS-titles-letter-spacing);
-  line-height: var(--EIS-titles-line-height);
+  line-height: 68px; /* 100% */
+letter-spacing: -2.04px;
   position: absolute;
   text-align: center;
   top: 24px;

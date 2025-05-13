@@ -3,5 +3,5 @@
   src: url('./HelveticaNeueLTPro-Roman.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
-  display: swap;
+  font-display: swap;
 }

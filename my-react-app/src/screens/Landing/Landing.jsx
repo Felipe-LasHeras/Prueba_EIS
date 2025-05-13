@@ -137,8 +137,7 @@ const Landing = () => {
           </p>
 
           <p className="text-wrapper-16">
-            Our trademark milkshakes that redefine the classic milkshake
-            experience, fusing high-quality ingredients with imaginative twists.
+          Our trademark milkshakes that redefine the classic milkshake experience, fusing high-quality ingredients with imaginative twists.
           </p>
 
           <p className="BIRMINGHAM-st-EIS">

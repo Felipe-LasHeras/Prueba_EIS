@@ -52,12 +52,12 @@
   color: #000000;
   display: block;
   font-family: var(--EIS-titles-font-family);
-  font-size: var(--EIS-titles-font-size);
-  font-style: var(--EIS-titles-font-style);
-  font-weight: var(--EIS-titles-font-weight);
+  font-size: 68px;
+font-style: normal;
+font-weight: 400;
   left: 329px;
-  letter-spacing: var(--EIS-titles-letter-spacing);
-  line-height: var(--EIS-titles-line-height);
+  line-height: 68px; /* 100% */
+letter-spacing: -2.04px;
   position: absolute;
   text-align: center;
   top: 24px;
@@ -119,12 +119,12 @@
 .MENU .text-wrapper-26 {
   color: #000000;
   font-family: var(--EIS-titles-font-family);
-  font-size: var(--EIS-titles-font-size);
-  font-style: var(--EIS-titles-font-style);
-  font-weight: var(--EIS-titles-font-weight);
+  font-size: 68px;
+font-style: normal;
+font-weight: 400;
   left: 377px;
-  letter-spacing: var(--EIS-titles-letter-spacing);
-  line-height: var(--EIS-titles-line-height);
+  line-height: 68px; /* 100% */
+letter-spacing: -2.04px;
   position: absolute;
   text-align: center;
   top: 156px;
